@@ -1,8 +1,8 @@
 {
 "name":"rania arbash",
-"year":2020,
-"program":"Data Science"
-"count":3,
+"year":"2020",
+"program":"Data Science",
+"count": 3,
 "courses" : [{
   "name":"Data",
   "code":"001",
