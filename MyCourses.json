@@ -3,7 +3,7 @@
 "year":2020,
 "program":"Data Science"
 "count":3,
-courses : [{
+"courses" : [{
   "name":"Data",
   "code":"001",
   "grade":77
