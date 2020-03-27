@@ -1,0 +1,20 @@
+{
+"name":"rania arbash",
+"year":2020,
+"program":"Data Science"
+"count":3,
+courses : [{
+  "name":"Data",
+  "code":"001",
+  "grade":77
+  },{
+    "name":"Data",
+  "code":"002",
+  "grade":68
+  },{
+   "name":"Data",
+  "code":"003",
+  "grade":80
+  }
+]
+}
